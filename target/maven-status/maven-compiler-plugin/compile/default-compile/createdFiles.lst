@@ -1,0 +1,7 @@
+com\in28minutes\springboot\rest\example\swagger\SwaggerConfig.class
+com\vehicle\springboot\rest\example\vehicles\VehiclesApplication.class
+com\vehicle\springboot\rest\example\vehicle\Vehicle.class
+com\vehicle\springboot\rest\example\vehicle\VehicleNotFoundException.class
+com\vehicle\springboot\rest\example\vehicle\VehicleResource.class
+com\in28minutes\springboot\rest\example\swagger\ApiDocumentationConfig.class
+com\vehicle\springboot\rest\example\vehicle\VehicleRepository.class
